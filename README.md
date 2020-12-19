@@ -5,5 +5,5 @@ Portifolio do desenvolvedor
 
 :package:nova funcionalidade
 :up:atualização 
-:beatle:correção de bug
+:beetle:correção de bug
 :checkered:release
